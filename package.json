@@ -1,0 +1,23 @@
+{
+  "name": "afsw",
+  "version": "1.0.0",
+  "description": "An Waiting For People Accept Friend Request, Then Send Discord Server Invite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatoSakii/AFSW.git"
+  },
+  "author": "Sato.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatoSakii/AFSW/issues"
+  },
+  "homepage": "https://github.com/SatoSakii/AFSW#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}

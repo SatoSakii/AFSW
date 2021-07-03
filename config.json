@@ -1,0 +1,12 @@
+{
+	"_comment": [
+		"Enter your token in \"token\" part",
+	    "Refresh Friend Request's default timeout is 6s (6000 ms)",
+		"Refresh Script default timeout is 60s (60000 ms)",
+		"Enter your discord server invite in \"inviteURL\" part"
+	],
+    "token":"",
+    "refreshScript": 60000,
+	"refreshFriendRequest": 6000, 
+    "inviteURL": "discord.gg/discord-developers"
+}
